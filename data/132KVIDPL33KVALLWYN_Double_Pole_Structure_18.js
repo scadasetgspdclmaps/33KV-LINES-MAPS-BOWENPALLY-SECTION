@@ -1,0 +1,1 @@
+var json_132KVIDPL33KVALLWYN_Double_Pole_Structure_18 = {"type":"FeatureCollection","name":"132KVIDPL33KVALLWYN_Double_Pole_Structure_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Label":"DP"},"geometry":{"type":"Point","coordinates":[78.433751,17.470379]}}]}
